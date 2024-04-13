@@ -1,0 +1,32 @@
+text {
+    fill: grey;
+}
+
+.tick line,
+path.domain {
+    stroke: rgb(240, 240, 240);
+}
+
+g.tick {
+    font-size: 12px;
+}
+
+button#CA {
+    transform: translate(22em, 0px);
+}
+
+button#TX {
+    transform: translate(32em, 0px);
+}
+
+button#FL {
+    transform: translate(42em, 0px);
+}
+
+button#NY {
+    transform: translate(52em, 0px);
+}
+
+a#first {
+    margin-left: 4em;
+}

@@ -1,0 +1,13 @@
+text {
+    fill: grey;
+}
+
+text.casesLabel,
+g.tick {
+    font-size: 13px;
+}
+
+.tick line, 
+path{
+    stroke: rgb(240, 240, 240);
+}

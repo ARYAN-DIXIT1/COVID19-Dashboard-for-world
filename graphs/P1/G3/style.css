@@ -1,0 +1,8 @@
+text {
+    fill: grey;
+}
+
+.tick line,
+path{
+    stroke: rgb(240, 240, 240);
+}
